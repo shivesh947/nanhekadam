@@ -24,5 +24,6 @@
   "background_color": "#667eea",
   "orientation": "portrait",
   "categories": ["education", "games"],
-  "description": "Fun and interactive learning app for kids aged 2-7"
+  "description": "Fun and interactive learning app for kids aged 2-7",
+  "permissions": ["audio"]
 }
